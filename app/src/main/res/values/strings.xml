@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact</string>
+
+
+    <string-array name="account">
+        <item>Updating Account</item>
+        <item>Create Account</item>
+        <item>Remove Account</item>
+    </string-array>
+</resources>
